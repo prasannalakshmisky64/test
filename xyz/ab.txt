@@ -1,1 +1,1 @@
-It's my first task in test repository and this is my first feature branch
+It's my first task in test repository and this is my first feature branch done for the day
